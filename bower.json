@@ -1,0 +1,20 @@
+{
+  "name": "soundCloud-api",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mframpton21/soundCloud-api",
+  "authors": [
+    "mframpton21 <mike521@gmail.com>"
+  ],
+  "description": "SoundCloud",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
